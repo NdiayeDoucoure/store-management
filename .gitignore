@@ -4,7 +4,7 @@ target/
 !**/src/test/**/target/
 
 pom.xml
-**/src/main/resources/META-INF/persistence.xml
+src/main/resources/META-INF/persistence.xml
 src/main/java/org/taysirsoftware/Main.java
 
 ### IntelliJ IDEA ###
