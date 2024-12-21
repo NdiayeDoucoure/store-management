@@ -3,6 +3,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+pom.xml
+!**/src/main/ressources/META-INF/persistence.xml
+!**/src/main/java/org/taysirsoftware/Main.java
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
